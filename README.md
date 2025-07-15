@@ -1,9 +1,9 @@
-<h1>Hi, I'm Faith! <br/><a href="https://github.com/joshmadakor1">Documentation Specialist</a>, <a href="https://www.linkedin.com/in/faith-luka-983433326/">Technical Writer</a>
+<h1>Hi, I'm Faith! <br/><a href="https://github.com/Faith204-alt/Faith204-alt>Documentation Specialist</a>, <a href="https://www.linkedin.com/in/faith-luka-983433326/">Technical Writer</a>
 
 <h2>👨‍💻 Technical writing  Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>The Role of Blockchain in Data Privacy</b>
+  - [The Role of Blockchain in Data Privacy](https://github.com/Faith204-alt/Faith204-alt/The Role of Blockchain in Data Privacy)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
