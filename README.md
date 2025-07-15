@@ -3,7 +3,7 @@
 <h2>👨‍💻 Technical writing  Projects:</h2>
 
 - <b>The Role of Blockchain in Data Privacy</b>
-  - [The Role of Blockchain in Data Privacy](https://github.com/Faith204-alt/Faith204-alt/The Role of Blockchain in Data Privacy)
+  - [https://docs.google.com/document/d/1JyKTKPx-3DPc8Ky-NxWJP2gRMDDjjznTdrz1aL1_oxc/edit?usp=sharing](The Role of Blockchain in Data Privacy)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
