@@ -5,7 +5,7 @@
 - <b>The Role of Blockchain in Data Privacy</b><a href="https://docs.google.com/document/d/1JyKTKPx-3DPc8Ky-NxWJP2gRMDDjjznTdrz1aL1_oxc/edit?usp=sharing>The Role of Blockchain in Data Privacy</a>
   - [https://docs.google.com/document/d/1JyKTKPx-3DPc8Ky-NxWJP2gRMDDjjznTdrz1aL1_oxc/edit?usp=sharing](The Role of Blockchain in Data Privacy)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [The Role of Blockchain in Data Privacy](https://github.com/Faith204-alt/Faith204-alt/The Role of Blockchain in Data Privacy<b><i>(Potentially NSFW)</b></i>
 - <b>The Role of Blockchain in Data Privacy</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
